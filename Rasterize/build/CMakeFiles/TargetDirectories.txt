@@ -1,0 +1,5 @@
+/home/anucg/Desktop/HW2/Code/build/CMakeFiles/task1.dir
+/home/anucg/Desktop/HW2/Code/build/CMakeFiles/task2.dir
+/home/anucg/Desktop/HW2/Code/build/CMakeFiles/task3.dir
+/home/anucg/Desktop/HW2/Code/build/CMakeFiles/edit_cache.dir
+/home/anucg/Desktop/HW2/Code/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task1.dir/task1.cpp.o -c /home/anucg/Desktop/HW2/Code/task1.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/task1.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task1.dir/rasterizer.cpp.o -c /home/anucg/Desktop/HW2/Code/rasterizer.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/rasterizer.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task1.dir/mesh.cpp.o -c /home/anucg/Desktop/HW2/Code/mesh.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/mesh.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task1.dir/Triangle.cpp.o -c /home/anucg/Desktop/HW2/Code/Triangle.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/Triangle.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task2.dir/task2.cpp.o -c /home/anucg/Desktop/HW2/Code/task2.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/task2.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task2.dir/rasterizer.cpp.o -c /home/anucg/Desktop/HW2/Code/rasterizer.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/rasterizer.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task2.dir/Triangle.cpp.o -c /home/anucg/Desktop/HW2/Code/Triangle.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/Triangle.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task2.dir/Texture.cpp.o -c /home/anucg/Desktop/HW2/Code/Texture.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/Texture.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task3.dir/task3.cpp.o -c /home/anucg/Desktop/HW2/Code/task3.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/task3.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task3.dir/rasterizer.cpp.o -c /home/anucg/Desktop/HW2/Code/rasterizer.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/rasterizer.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task3.dir/Triangle.cpp.o -c /home/anucg/Desktop/HW2/Code/Triangle.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/Triangle.cpp"
+},
+{
+  "directory": "/home/anucg/Desktop/HW2/Code/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -g -o CMakeFiles/task3.dir/Texture.cpp.o -c /home/anucg/Desktop/HW2/Code/Texture.cpp",
+  "file": "/home/anucg/Desktop/HW2/Code/Texture.cpp"
+}
+]
